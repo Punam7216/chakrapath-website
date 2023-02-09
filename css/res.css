@@ -1,0 +1,10 @@
+@media(max-width:480px)
+
+{
+    .flex{flex-direction: column;}
+    .top2 .flex{flex-direction: row!important;}
+    .main .flex{flex-direction: column;}
+    .nav ul .flex{flex-direction: row!important;}
+    .search .flex{flex-direction: row!important;}
+
+}

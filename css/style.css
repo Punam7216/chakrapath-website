@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Carter+One&family=Mukta:wght@400;600;700&family=Nunito+Sans:wght@700&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    
+    font-family: 'Mukta', sans-serif;
+}
+header
+{
+    background: #000;
+    color: white;
+}
+.con
+{
+    max-width:1200px;
+    margin:auto;
+
+}
+    
+ .w
+ {
+    width: 75%;
+    margin:center;
+ }
+ a
+ {
+    text-decoration: none;
+ }   
+    
+    
+
+.flex
+{
+    display: flex;
+}
+.jc
+{
+    justify-content: space-between;
+}
+.ai
+{
+    align-items: center;
+}
+ul
+{
+    list-style: none;
+}
+.g
+{
+    gap: 30px;}
+.tc
+   {
+    text-align: center;
+   }
+.con img
+{
+    margin-top: 20px;
+
+}
+.main
+{
+    margin-top: 10px;
+}
+nav 
+{
+    font-weight: 600;
+    font-style: normal;
+    line-height: 24px;
+    font-family: "Ek Mukta";
+    font-size: 16px;
+    
+}
+nav li span
+{
+    line-height: -10px;
+    background: #99060B;
+    color: white;
+
+}
+.btn
+{
+    background: #99060B;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 30px;
+    
+    font-weight: 700;
+    font-family: "Ek Mukta";
+    
+}
+.btn1
+{
+    background: #99060B;
+    padding: 10px;
+    color: white;
+    border-radius: 30px;
+    position: absolute;
+ 
+}
+.search
+{
+    border-radius: 30px;
+    font-size: 16px;
+    padding: 10px;
+    position: relative;
+   
+
+    
+}
+
+.menu ul
+{
+    font-family: "Ek Mukta";
+    font-size: 16px;
+    font-weight: 400;
+    margin: 10px 5px;
+    padding-left: 10px;
+    color:rgb(73, 80, 87);
+
+}
+.banner img
+{
+    margin: 15px 0;
+}
+.box
+{
+    border: 1px solid rgb(223, 226, 225) ;
+    height: 40px;
+    background: rgb(223, 226, 225);
+    margin:10px 0;
+}
+.box1
+{border: 2px solid #99060B}
+.heading
+{
+ font-size: 2.5rem;
+ font-weight: 400,bold;
+ margin-top:10px;
+ text-align: center;
+}
+.tc
+{
+    text-align: center;
+}
+.paragraph
+{
+    font-size: 16px;
+    font-weight:400,bold ;
+    margin-bottom: 10px;
+}
+.bigbox
+{
+    border: 0.5px solid rgb(253, 251, 251);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
